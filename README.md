@@ -9,11 +9,11 @@
 💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
 
 <p align="center">
-  <h1>Hey there, I’m <a href="https://yousefdergham.vercel.app/">Yousef Dergham</a> 👋</h1>
+  <h1>Hey there, I’m <a href="https://hazemahmed.vercel.app/">Yousef Dergham</a> 👋</h1>
   <p><em>Full-stack Web Developer · CS Student · Coffee Lover ☕</em></p>
   <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
   <p>💼 <strong>Current:</strong> Software Engineer at <a href="almdrasa.com" target="_blank">Almadrsa</p>
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hazemahmed&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
