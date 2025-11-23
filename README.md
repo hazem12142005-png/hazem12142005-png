@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hazem Ahmed 0
+# 👋 Hi, I'm Hazem Ahmed
 
 I'm a Computer Science graduate from the Faculty of Computers and Artificial Intelligence. Passionate about building intelligent systems, solving real-world problems through code, and constantly learning new technologies.
 
